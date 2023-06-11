@@ -1,5 +1,13 @@
 # ImageBind: One Embedding Space To Bind Them All
 
+
+## How to start 
+```bash
+python -m venv .venv
+poetry install
+# test code
+python example.py
+```
 **[FAIR, Meta AI](https://ai.facebook.com/research/)** 
 
 Rohit Girdhar*,
